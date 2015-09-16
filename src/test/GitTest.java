@@ -9,4 +9,7 @@ public class GitTest {
 		System.out.println("First Stdout3");
 	}
 
+	public static void test1() {
+		System.out.println("call test1");
+	}
 }
